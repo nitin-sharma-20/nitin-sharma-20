@@ -156,6 +156,7 @@ Actively contributing to open-source projects as part of **GirlScript Summer of 
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -193,8 +194,7 @@ Actively contributing to open-source projects as part of **GirlScript Summer of 
 
 ## 💬 Let's Connect
 
-I'm always open to collaborating on interesting problems — especially in **backend systems**, **edge AI**, or **cloud-native** applications.
-
+I'm always open to collaborating on interesting problems.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-sharma-9a7424299/)
@@ -206,5 +206,5 @@ I'm always open to collaborating on interesting problems — especially in **bac
 ---
 
 <div align="center">
-<sub>⚡ Built with purpose · Deployed at the edge · Always learning</sub>
+<sub>⚡ Built with purpose · Always shipping · Always learning</sub>
 </div>
