@@ -40,22 +40,18 @@ I'm on a mission to bridge the gap between intelligent software and the real wor
 public class NitinSharma {
 
     private final String   name        = "Nitin Sharma";
-    private final String   role        = "B.Tech CSE (AIML) Undergrad";
-    private final String   location    = "India";
-    private final String[] focus       = { "Backend Engineering", "AI/ML", "Cloud Infrastructure" };
-    private final String[] languages   = { "Java", "Python", "HTML/CSS" };
-    private final String[] frameworks  = { "Spring Boot", "YOLOv8", "ONNX Runtime", "OpenCV" };
-    private final String   cloud       = "AWS Certified Cloud Practitioner ☁️";
-    private final String   openSource  = "GSSoC 2026 Contributor 🌱";
-    private final String[] interests   = { "Edge AI", "Computer Vision", "Drone Systems", "MLOps" };
-
-    public String currentMission() {
-        return "Building intelligent systems that work at the edge — no cloud required.";
-    }
+    private  String   role        = "B.Tech CSE (AIML) Undergrad";
+    private  String   location    = "India";
+    private  String[] focus       = { "Backend Engineering", "AI/ML", "Cloud Infrastructure" };
+    private  String[] languages   = { "Java", "Python", "HTML/CSS" };
+    private  String[] frameworks  = { "Spring Boot", "YOLOv8", "ONNX Runtime", "OpenCV" };
+    private  String   cloud       = "AWS Certified Cloud Practitioner ☁️";
+    private  String   openSource  = "GSSoC 2026 Contributor 🌱";
+       
 
     public static void main(String[] args) {
         NitinSharma me = new NitinSharma();
-        System.out.println(me.currentMission());
+        
     }
 }
 ```
