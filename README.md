@@ -180,17 +180,7 @@ Actively contributing to open-source projects as part of **GirlScript Summer of 
 
 ---
 
-## 📈 What I'm Working Towards
 
-```
-[ Backend Mastery   ]  ████████████████████░░  90%
-[ Cloud Engineering ]  ████████████████░░░░░░  75%
-[ AI / ML Systems   ]  ███████████████░░░░░░░  70%
-[ Open Source       ]  ████████░░░░░░░░░░░░░░  40%
-[ DevOps / CI-CD    ]  ██████░░░░░░░░░░░░░░░░  30%
-```
-
----
 
 ## 💬 Let's Connect
 
