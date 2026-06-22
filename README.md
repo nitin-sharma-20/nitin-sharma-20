@@ -154,19 +154,6 @@ Actively contributing to open-source projects as part of **GirlScript Summer of 
 </tr>
 </table>
 
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-sharma-20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Nitin's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-sharma-20&theme=tokyonight&hide_border=true" width="48%" alt="Nitin's Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-sharma-20&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-
-</div>
 
 ---
 
